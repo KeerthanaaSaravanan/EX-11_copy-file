@@ -25,9 +25,9 @@ with open('copy.txt','a')as fp1:
 	fp1.write(msg1)
 ```
 ### OUTPUT:
-![image](https://github.com/KeerthanaaSaravanan/EX-11_copy-file/assets/145742596/ed70447f-5316-43e5-a863-2eff42bc9c56)
-![image](https://github.com/KeerthanaaSaravanan/EX-11_copy-file/assets/145742596/67083ffd-00a5-49e4-b360-55a95f7111eb)
-![image](https://github.com/KeerthanaaSaravanan/EX-11_copy-file/assets/145742596/7ceac6c2-10f2-407d-9419-dba545fb4ee4)
+![Screenshot 2023-12-23 131905](https://github.com/KeerthanaaSaravanan/EX-11_copy-file/assets/145742596/c64a3d71-ef12-4f8c-bcfc-8e59050393a4)
+![Screenshot 2023-12-23 131853](https://github.com/KeerthanaaSaravanan/EX-11_copy-file/assets/145742596/0cc21521-09ba-4e6a-bce3-8662acf4cdd5)
+![Screenshot 2023-12-23 131857](https://github.com/KeerthanaaSaravanan/EX-11_copy-file/assets/145742596/827d55c3-b134-4051-9733-1350890503d0)
 
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
