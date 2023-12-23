@@ -1,0 +1,3 @@
+This is a file created by Keerthana Saravanan
+This is to write a python program for copying the contents from one file to another file.
+It required PC Anaconda - Python 3.7
